@@ -1,0 +1,1 @@
+__all__ = ['task1_mod.py', 'chess_mod']
