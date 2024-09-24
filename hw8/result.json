@@ -1,0 +1,153 @@
+{
+  "C:\\GeekBrains\\Data Engineer\\Python\\Python_advanced_hws\\hw8": {
+    "File_manager": {
+      "object_size": 28325,
+      "object_type": "directory",
+      "parant_directory": "Python_advanced_hws"
+    },
+    "data.csv": {
+      "object_size": 30,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "data.json": {
+      "object_size": 149,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "data.txt": {
+      "object_size": 128,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "data1.json": {
+      "object_size": 20,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "data2.json": {
+      "object_size": 109,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "main.py": {
+      "object_size": 1890,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "result.csv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "result.json": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "result.pickle": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "result1.csv": {
+      "object_size": 241,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "result1.json": {
+      "object_size": 442,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "result1.pickle": {
+      "object_size": 278,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    },
+    "task.py": {
+      "object_size": 4892,
+      "object_type": "file",
+      "parant_directory": "hw8"
+    }
+  },
+  "C:\\GeekBrains\\Data Engineer\\Python\\Python_advanced_hws\\hw8\\File_manager": {
+    "__pycache__": {
+      "object_size": 15534,
+      "object_type": "directory",
+      "parant_directory": "hw8"
+    },
+    "create_file_json.py": {
+      "object_size": 4630,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "create_file_txt.py": {
+      "object_size": 562,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "csv_to_json.py": {
+      "object_size": 1715,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "directory_reference.py": {
+      "object_size": 3482,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "json_to_csv.py": {
+      "object_size": 1476,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "txt_to_json.py": {
+      "object_size": 926,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    }
+  },
+  "C:\\GeekBrains\\Data Engineer\\Python\\Python_advanced_hws\\hw8\\File_manager\\__pycache__": {
+    "create_file_json.cpython-312.pyc": {
+      "object_size": 3650,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "create_file_txt.cpython-312.pyc": {
+      "object_size": 1256,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "csv_to_json.cpython-312.pyc": {
+      "object_size": 2597,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "directory_reference.cpython-312.pyc": {
+      "object_size": 4578,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "json_to_csv.cpython-312.pyc": {
+      "object_size": 1999,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "txt_to_json.cpython-312.pyc": {
+      "object_size": 1274,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "__init__.cpython-312.pyc": {
+      "object_size": 180,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  }
+}
